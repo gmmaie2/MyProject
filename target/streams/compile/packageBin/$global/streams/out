@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/kafkasparkstreamingcassandra_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	kafkaSparkStreamCassandra$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/workspace/kafkaSparkStreamingCassandra/target/scala-2.10/classes/kafkaSparkStreamCassandra$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

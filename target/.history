@@ -1,0 +1,4 @@
+run
+run /user/cloudera/streaming/kafkaPipelinStreamingCassandra/data
+run /user/cloudera/streaming/kafkaPipelinStreamingCassandra/
+run hdfs://quickstart.cloudera:8020/user/cloudera/streaming/kafkaPipelinStreamingCassandra/data
